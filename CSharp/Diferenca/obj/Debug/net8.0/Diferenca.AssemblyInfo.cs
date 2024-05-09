@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Diferenca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707aaa87152e9c1464febb280af79444c02b16b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Diferenca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Diferenca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

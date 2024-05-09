@@ -1,28 +1,26 @@
 ﻿using System;
-
+using System.Linq;
 class URI
 {
-
     static void Main(string[] args)
     {
+        double A, B, C;
+        string inp = Console.ReadLine();
+        double[] valores = inp.Split(' ').Select(x => double.Parse(x)).ToArray();
+        A = valores[0];
+        B = valores[1];
+        C = valores[2];
 
-        string input = Console.ReadLine();
-
-        string[] input_ = input.Split(' ');
-
-        double a = Convert.ToDouble(input_[0]);
-        double b = Convert.ToDouble(input_[1]);
-        double c = Convert.ToDouble(input_[2]);
-
-        double d = a + b;
-
-        if (((a + b) > c) && ((b + c) > a) && ((a + c) > b))
+        if ((Math.Abs(B - C) < A && A < (B + C)) && (Math.Abs(A - C) < B && B < (A + C)) && (Math.Abs(A - B) < C && C < (A + B)))
         {
-            Console.WriteLine("Perimetro = {0:F1}", (a + b + c));
+            double perimetro = A + B + C;
+            Console.WriteLine("Perimetro = {0:F1}", perimetro);
+
         }
         else
         {
-            Console.WriteLine("Area = {0:F1}", ((a + b) * c) / 2);
+            double area = (A + B) * C / 2;
+            Console.WriteLine("Area = {0:F1}", area);
         }
 
     }

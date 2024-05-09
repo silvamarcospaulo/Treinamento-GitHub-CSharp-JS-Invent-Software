@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CorvoContdo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707aaa87152e9c1464febb280af79444c02b16b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5a52451704a27f8b361f9422627db381739ce42")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorvoContdo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CorvoContdo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

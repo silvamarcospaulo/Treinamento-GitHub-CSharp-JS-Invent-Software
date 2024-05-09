@@ -10,11 +10,11 @@ class URI
     {
         string stringEntrada;
         int intEntrada;
-        int j;
-        List<int> Baralho = new List<int>();
-        List<int> Descarte = new List<int>();
-        
-        while(true)
+        int temp;
+
+        Queue<int> Baralho = new Queue<int>();
+
+        while (true)
         {
             stringEntrada = Console.ReadLine();
             intEntrada = int.Parse(stringEntrada);
@@ -22,48 +22,29 @@ class URI
             if (intEntrada == 0)
                 break;
 
-
             for (int i = 1; i <= intEntrada; i++)
-                Baralho.Add(i);
-
-            while(Baralho.Count != 1)
-            {
-                Descarte.Add(Baralho.First());
-                Baralho.RemoveAt(0);
-                Baralho.Add(Baralho.First());
-                Baralho.RemoveAt(0);
-            }
+                Baralho.Enqueue(i);
 
             Console.Write("Discarded cards: ");
-            while(true)
+            while (Baralho.Count != 1)
             {
-                if (Descarte.Count == 0)
-                    break;
+                Console.Write(Baralho.Peek());
+                Baralho.Dequeue();
 
-                Console.Write(Descarte.First());
-                Descarte.RemoveAt(0);
-
-                if (Descarte.Count != 0)
+                if (Baralho.Count != 1)
                     Console.Write(", ");
-            }
-            Console.WriteLine();
-            Console.Write("Remaining cards: ");
-            while(true)
-            {
-                if (Baralho.Count == 0)
+                else
+                {
+                    Console.WriteLine();
                     break;
-
-                Console.Write(Baralho.First());
-                Baralho.RemoveAt(0);
-
-                if (Baralho.Count != 0)
-                    Console.Write(", ");
+                }
+                temp = Baralho.Peek();
+                Baralho.Dequeue();
+                Baralho.Enqueue(temp);
             }
-            Console.WriteLine();
+            Console.WriteLine($"Remaining card: {Baralho.Peek()}");
 
             Baralho.Clear();
-            Descarte.Clear();
         }
-       
     }
 }

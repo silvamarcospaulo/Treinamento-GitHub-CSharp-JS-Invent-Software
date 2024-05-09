@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThrowingCardsAway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+280846fcfd98d07d7a623ce692c561d41b2d3b24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaaf7d173a895c4aab1025feb7f3e77e2c76d32d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThrowingCardsAway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThrowingCardsAway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

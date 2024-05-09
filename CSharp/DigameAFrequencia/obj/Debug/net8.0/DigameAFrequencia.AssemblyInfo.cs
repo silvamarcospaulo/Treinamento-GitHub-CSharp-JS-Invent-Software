@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SalarioComBonus")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DigameAFrequencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707aaa87152e9c1464febb280af79444c02b16b9")]
-[assembly: System.Reflection.AssemblyProductAttribute("SalarioComBonus")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SalarioComBonus")]
+[assembly: System.Reflection.AssemblyProductAttribute("DigameAFrequencia")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DigameAFrequencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

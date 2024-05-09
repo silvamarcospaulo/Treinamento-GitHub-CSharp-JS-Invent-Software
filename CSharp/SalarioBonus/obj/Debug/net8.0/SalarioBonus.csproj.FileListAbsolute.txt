@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\bin\Debug\net8.0\SalarioBonus.exe
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\bin\Debug\net8.0\SalarioBonus.deps.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\bin\Debug\net8.0\SalarioBonus.runtimeconfig.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\bin\Debug\net8.0\SalarioBonus.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\bin\Debug\net8.0\SalarioBonus.pdb
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.sourcelink.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\refint\SalarioBonus.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.pdb
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\SalarioBonus.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\SalarioBonus\obj\Debug\net8.0\ref\SalarioBonus.dll

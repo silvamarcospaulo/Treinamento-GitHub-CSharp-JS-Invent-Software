@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\bin\Debug\net8.0\EvenOdd.exe
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\bin\Debug\net8.0\EvenOdd.deps.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\bin\Debug\net8.0\EvenOdd.runtimeconfig.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\bin\Debug\net8.0\EvenOdd.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\bin\Debug\net8.0\EvenOdd.pdb
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.sourcelink.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\refint\EvenOdd.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.pdb
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\EvenOdd.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\EvenOdd\obj\Debug\net8.0\ref\EvenOdd.dll

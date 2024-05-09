@@ -6,12 +6,18 @@ class URI
     static void Main(string[] args)
     {
 
-        int[] input = new int[4];
-        for (int i = 0; i < 4; i++)
-        {
-            input[i] = Convert.ToInt32(Console.ReadLine());
-        }
-        Console.WriteLine($"DIFERENCA = {input[0] * input[1] - input[2] * input[3]}");
-        int main;
+        int A, B, C, D;
+        //Console.WriteLine("Digite o valor para A: ");
+        A = int.Parse(Console.ReadLine());
+        //Console.WriteLine("Digite o valor para B: ");
+        B = int.Parse(Console.ReadLine());
+        //Console.WriteLine("Digite o valor para C: ");
+        C = int.Parse(Console.ReadLine());
+        // Console.WriteLine("Digite o valor para D: ");
+        D = int.Parse(Console.ReadLine());
+        int resultado = A * B - C * D;
+        Console.WriteLine($"DIFERENCA = {resultado}");
+
     }
+
 }

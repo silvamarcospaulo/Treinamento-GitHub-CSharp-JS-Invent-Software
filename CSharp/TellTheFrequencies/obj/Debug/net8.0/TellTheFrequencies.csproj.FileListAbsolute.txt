@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\bin\Debug\net8.0\TellTheFrequencies.exe
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\bin\Debug\net8.0\TellTheFrequencies.deps.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\bin\Debug\net8.0\TellTheFrequencies.runtimeconfig.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\bin\Debug\net8.0\TellTheFrequencies.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\bin\Debug\net8.0\TellTheFrequencies.pdb
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.sourcelink.json
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\refint\TellTheFrequencies.dll
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.pdb
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\TellTheFrequencies.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Git\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\TellTheFrequencies\obj\Debug\net8.0\ref\TellTheFrequencies.dll

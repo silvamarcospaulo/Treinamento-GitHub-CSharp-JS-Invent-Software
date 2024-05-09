@@ -12,5 +12,6 @@ class URI
             input[i] = Convert.ToInt32(Console.ReadLine());
         }
         Console.WriteLine($"DIFERENCA = {input[0] * input[1] - input[2] * input[3]}");
+        int main;
     }
 }

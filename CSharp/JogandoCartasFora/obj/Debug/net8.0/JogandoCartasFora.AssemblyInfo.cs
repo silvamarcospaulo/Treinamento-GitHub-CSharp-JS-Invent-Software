@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogandoCartasFora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7946e2341f9e98eddc5f7980077393f78bf6a0a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2da230ba8771b793b08f79f2b64ee92cf9e2027")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogandoCartasFora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogandoCartasFora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

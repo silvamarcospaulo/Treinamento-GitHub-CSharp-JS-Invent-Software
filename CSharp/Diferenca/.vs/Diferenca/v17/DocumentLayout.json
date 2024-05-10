@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Projetos\\Treinamento-GitHub-CSharp-JS-Invent-Software\\CSharp\\Diferenca\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F4D4B-D844-46E1-89EF-430DB78623FC}|..\\JogandoCartasFora\\JogandoCartasFora.csproj|c:\\users\\usuario\\desktop\\projetos\\treinamento-github-csharp-js-invent-software\\csharp\\jogandocartasfora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A24A-248E-49D9-A011-6103A8914D36}|..\\ParesEImpares\\ParesEImpares.csproj|c:\\users\\usuario\\desktop\\projetos\\treinamento-github-csharp-js-invent-software\\csharp\\pareseimpares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +16,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projetos\\Treinamento-GitHub-CSharp-JS-Invent-Software\\CSharp\\JogandoCartasFora\\Program.cs",
+              "RelativeDocumentMoniker": "..\\JogandoCartasFora\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projetos\\Treinamento-GitHub-CSharp-JS-Invent-Software\\CSharp\\JogandoCartasFora\\Program.cs",
+              "RelativeToolTip": "..\\JogandoCartasFora\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:59:13.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projetos\\Treinamento-GitHub-CSharp-JS-Invent-Software\\CSharp\\ParesEImpares\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ParesEImpares\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projetos\\Treinamento-GitHub-CSharp-JS-Invent-Software\\CSharp\\ParesEImpares\\Program.cs",
+              "RelativeToolTip": "..\\ParesEImpares\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:57:17.436Z",
+              "EditorCaption": ""
             }
           ]
         }

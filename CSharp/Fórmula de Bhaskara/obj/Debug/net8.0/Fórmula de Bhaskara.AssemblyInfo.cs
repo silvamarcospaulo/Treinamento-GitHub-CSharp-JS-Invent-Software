@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fórmula de Bhaskara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707aaa87152e9c1464febb280af79444c02b16b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7946e2341f9e98eddc5f7980077393f78bf6a0a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fórmula de Bhaskara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fórmula de Bhaskara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

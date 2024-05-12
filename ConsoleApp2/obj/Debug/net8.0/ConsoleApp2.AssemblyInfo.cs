@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("JogandoCartasFora")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f4a1d2a85a2358b34b694e4613ead0afb118839")]
-[assembly: System.Reflection.AssemblyProductAttribute("JogandoCartasFora")]
-[assembly: System.Reflection.AssemblyTitleAttribute("JogandoCartasFora")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5a52451704a27f8b361f9422627db381739ce42")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

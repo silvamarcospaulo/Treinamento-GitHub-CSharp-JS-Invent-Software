@@ -13,3 +13,18 @@ C:\Users\Usuario\Desktop\gitex\Treinamento-GitHub-CSharp-JS-Invent-Software\CSha
 C:\Users\Usuario\Desktop\gitex\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.pdb
 C:\Users\Usuario\Desktop\gitex\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\gitex\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\ref\JogandoCartasFora.dll
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\bin\Debug\net8.0\JogandoCartasFora.exe
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\bin\Debug\net8.0\JogandoCartasFora.deps.json
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\bin\Debug\net8.0\JogandoCartasFora.runtimeconfig.json
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\bin\Debug\net8.0\JogandoCartasFora.dll
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\bin\Debug\net8.0\JogandoCartasFora.pdb
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.AssemblyInfoInputs.cache
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.AssemblyInfo.cs
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.csproj.CoreCompileInputs.cache
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.sourcelink.json
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.dll
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\refint\JogandoCartasFora.dll
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.pdb
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\JogandoCartasFora.genruntimeconfig.cache
+C:\Users\detof\OneDrive\Área de Trabalho\ProjetosGit\Treinamento-GitHub-CSharp-JS-Invent-Software\CSharp\JogandoCartasFora\obj\Debug\net8.0\ref\JogandoCartasFora.dll

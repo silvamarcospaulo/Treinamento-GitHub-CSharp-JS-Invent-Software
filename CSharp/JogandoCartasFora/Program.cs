@@ -23,7 +23,7 @@ class URI
 
 
         }
-        int n = cartas.Count;
+        
         //List<int> cartasDescartadas = new List<int>();
         int[] cartasArray = cartas.ToArray();
 
@@ -85,3 +85,5 @@ class URI
     }
 
 }
+
+// isso é tudo pepessoal 
